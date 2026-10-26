@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1280" cy="220" r="220" fill="#8b5cf6" opacity="0.35"/>
+  <circle cx="320" cy="700" r="280" fill="#22c55e" opacity="0.16"/>
+  <rect x="140" y="160" width="1320" height="560" rx="36" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.24)" stroke-width="2"/>
+  <rect x="220" y="250" width="420" height="250" rx="24" fill="rgba(255,255,255,0.16)"/>
+  <path d="M280 420C340 340 390 320 452 366C502 404 561 454 616 430" stroke="#f8fafc" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <rect x="720" y="250" width="560" height="28" rx="14" fill="rgba(255,255,255,0.2)"/>
+  <rect x="720" y="310" width="480" height="22" rx="11" fill="rgba(255,255,255,0.14)"/>
+  <rect x="720" y="356" width="520" height="22" rx="11" fill="rgba(255,255,255,0.14)"/>
+  <rect x="720" y="420" width="360" height="22" rx="11" fill="rgba(255,255,255,0.14)"/>
+  <rect x="220" y="560" width="240" height="80" rx="20" fill="#f8fafc" opacity="0.9"/>
+  <rect x="500" y="560" width="240" height="80" rx="20" fill="rgba(248,250,252,0.72)"/>
+  <text x="220" y="650" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#f8fafc">Project Preview</text>
+  <text x="220" y="700" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#e2e8f0">AI • Analytics • Data Science</text>
+</svg>
